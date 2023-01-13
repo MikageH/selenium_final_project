@@ -2,3 +2,5 @@
 
 This is my solution to the task:
 https://stepik.org/lesson/237240/step/10?unit=209628
+
+Note that Chrome is enough for this challenge
